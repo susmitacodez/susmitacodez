@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hi,+I'm+Susmita+Farhana;AI-Assisted+Full+Stack+Developer;Frontend+%26+Backend+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+Express.js;E-commerce+Website+Developer;Building+Modern+%26+Scalable+Web+Applications" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Susmita Farhana</h1>
+<h1 align="center">👋 Hi, I'm Susmita </h1>
 
 <h3 align="center">
 💻 Full Stack Web Developer
@@ -61,14 +61,6 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=susmitacodez&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=susmitacodez&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
