@@ -57,20 +57,21 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=susmitacodez&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=susmitacodez&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmitacodez&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 
 ---
 
-## 👀 Profile Views
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=susmitacodez&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://streak-stats.demolab.com?user=susmitacodez&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -80,3 +81,17 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
 </p>
 
 ---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=susmitacodez&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=susmitacodez&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
