@@ -11,6 +11,10 @@ Frontend & Backend Developer
 </h3>
 
 ---
+### 📫 Contact Me
+
+- 📧 **Email:** susmitafarhana972@gmail.com
+
 
 ## 🚀 About Me
 
@@ -26,8 +30,8 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
 - 🛒 E-commerce Website Development
 - 🌐 REST API Development
 - 🤖 AI-Assisted Software Development
-
 ---
+
 
 ## 🛠️ Languages & Tools
 
