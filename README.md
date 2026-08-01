@@ -5,7 +5,8 @@
 <h1 align="center">👋 Hi, I'm Susmita Farhana</h1>
 
 <h3 align="center">
-💻 AI-Assisted Full Stack Developer <br>
+💻 Full Stack Web Developer
+Leveraging AI to Build Faster, Smarter & Scalable Web Applications <br>
 Frontend & Backend Developer
 </h3>
 
@@ -54,17 +55,7 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
 
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=susmitacodez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmitacodez&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
