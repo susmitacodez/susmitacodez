@@ -1,28 +1,29 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hi+👋,+I'm+Susmita+Farhana;🤖+AI-Assisted+Full+Stack+Developer;Frontend+%26+Backend+Developer;React.js+⚛️+Next.js+⚡+Node.js+%7C+Express.js;E-commerce+Website+Developer;Building+Modern+%26+Scalable+Web+Applications+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hi,+I'm+Susmita+Farhana;AI-Assisted+Full+Stack+Developer;Frontend+%26+Backend+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+Express.js;E-commerce+Website+Developer;Building+Modern+%26+Scalable+Web+Applications" />
 </p>
 
-# 👋 Hi, I'm Susmita Farhana
+<h1 align="center">👋 Hi, I'm Susmita Farhana</h1>
 
-## 💻 Full Stack Web Developer
-
-I'm a passionate **Full Stack Web Developer** specializing in **Frontend & Backend Development**.
-
-I build modern, responsive and scalable **E-commerce Web Applications** using React.js, Next.js, Node.js, Express.js and MongoDB.
-
-I also leverage **AI-assisted development tools** to improve productivity, accelerate development, and deliver high-quality software.
+<h3 align="center">
+💻 AI-Assisted Full Stack Developer <br>
+Frontend & Backend Developer
+</h3>
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-- ⚛️ React.js Development
-- ⚡ Next.js Development
-- 🟢 Node.js & Express.js Backend
-- 🍃 MongoDB Database
+I'm a passionate **Full Stack Web Developer** specializing in building **modern, responsive, scalable and high-performance web applications**.
+
+### I specialize in:
+
+- ⚛️ React.js
+- ⚡ Next.js
+- 🟢 Node.js
+- 🚀 Express.js
+- 🍃 MongoDB
 - 🛒 E-commerce Website Development
 - 🌐 REST API Development
-- 📱 Responsive Web Design
 - 🤖 AI-Assisted Software Development
 
 ---
@@ -30,7 +31,27 @@ I also leverage **AI-assisted development tools** to improve productivity, accel
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,github,vscode,figma,postman,vercel,netlify,npm&perline=7" />
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=vercel" />
+<img src="https://skillicons.dev/icons?i=netlify" />
+<img src="https://skillicons.dev/icons?i=npm" />
+
 </p>
 
 ---
@@ -38,9 +59,11 @@ I also leverage **AI-assisted development tools** to improve productivity, accel
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=susmitacodez&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmitacodez&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=susmitacodez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmitacodez&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -48,7 +71,7 @@ I also leverage **AI-assisted development tools** to improve productivity, accel
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=susmitacodez&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=susmitacodez&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -56,7 +79,7 @@ I also leverage **AI-assisted development tools** to improve productivity, accel
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=susmitacodez&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=susmitacodez&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -64,5 +87,5 @@ I also leverage **AI-assisted development tools** to improve productivity, accel
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=susmitacodez&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=susmitacodez&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
