@@ -16,7 +16,7 @@ I'm a passionate Full Stack Web Developer who enjoys building modern, responsive
 - 📱 Responsive Web Design
 - 🤖 AI-Assisted Development
 
-### 🛠️ Tech Stack
+
 
 ## 📊 GitHub Stats
 
