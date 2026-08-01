@@ -71,3 +71,12 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=susmitacodez&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/susmitacodez/susmitacodez/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
