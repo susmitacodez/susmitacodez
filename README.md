@@ -30,7 +30,7 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
 ### 📫 Contact Me
 
 - 📧 **Email:** susmitaa.dev.bd@gmail.com
-- 🌐 **Portfolio:** [susmita-web-dev-portfolio.vercel.app](https://susmita-dev.vercel.app/)
+- 🌐 **Portfolio:** [https://susmita-dev.vercel.app](https://susmita-dev.vercel.app/)
 - 💼 **LinkedIn:** [Susmita Farhana](https://www.linkedin.com/in/susmita-farhana-24a365427/)
 ## 🛠️ Languages & Tools
 
