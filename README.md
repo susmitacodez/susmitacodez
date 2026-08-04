@@ -63,9 +63,11 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=susmitacodez&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-streak-stats-7rh9.vercel.app?user=susmitacodez&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
