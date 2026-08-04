@@ -96,12 +96,5 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
 ## 💭 Developer Quote
 
 > "Code. Learn. Build. Repeat."
- ## 📈 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://stats.dooboo.io/api/github-stats-advanced?login=susmitacodez"
-    alt="GitHub Stats"
-  />
-</p>
 
