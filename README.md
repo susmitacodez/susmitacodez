@@ -78,15 +78,9 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
 
 
 ---
-## 🏆 GitHub Trophies
+## 👀 Profile Views
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=susmitacodez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
-  />
-</p>
-
+👀 **Profile Views:** Growing every day 🚀
 ---
 
 
