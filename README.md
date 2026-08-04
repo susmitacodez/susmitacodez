@@ -80,7 +80,11 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
 ---
 ## 👀 Profile Views
 
-👀 **Profile Views:** Growing every day 🚀
----
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=susmitacodez&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 
