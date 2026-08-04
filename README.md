@@ -89,17 +89,4 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=susmitacodez&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=susmitacodez&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
