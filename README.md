@@ -86,15 +86,16 @@ I'm a passionate **Full Stack Web Developer** specializing in building **modern,
     alt="Profile Views"
   />
 </p>
+## 🎯 Current Focus
 
-## 📊 GitHub Statistics
+- 🚀 Building scalable Full Stack Web Applications
+- ⚡ Mastering Next.js & Backend Architecture
+- 🤖 Integrating AI into modern web apps
+- 📚 Learning System Design & Cloud Deployment
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=susmitacodez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
+## 💭 Developer Quote
+
+> "Code. Learn. Build. Repeat."
  ## 📈 GitHub Stats
 
 <p align="center">
